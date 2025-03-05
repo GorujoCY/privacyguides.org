@@ -24,8 +24,10 @@ Privacy Guides collects data about you:
 - When you create and use an account on our websites
 - When you post, send private messages, and otherwise participate in a community that Privacy Guides hosts
 - When you sign up for a mailing list, email notifications, or announcements
-- When you make a donation to us or become a member
+- When you make a donation to us on GitHub Sponsors
+- When you become a donating member and link your MAGIC Grants account to your Privacy Guides forum account
 - When you contribute to our website or other open-source projects
+- When you contact us
 
 Privacy Guides does not buy or receive data about you from data brokers.
 
@@ -94,6 +96,14 @@ Contributors to Privacy Guides' website may be asked to provide identifying and 
 
 Privacy Guides uses this information to maintain the integrity of our website, software, and license agreements, both our own licenses and the license between Privacy Guides and our contributors. Privacy Guides stores this information for as long as your contributions are incorporated into our open source software, including this website.
 
+### Privacy Guides collects data when you contact us
+
+When you contact Privacy Guides via email, Signal, or any of our other contact methods, we collect the information you submit to us, and any identifying information associated with the account you use to contact us. For example, when you contact us via Signal we will collect your Signal profile information. When you contact us via email we will collect your email address, name, and mail server IP address.
+
+In this case we limit the processing of any personal data you provide us to what is strictly necessary to communicate with you and organize our messages.
+
+Privacy Guides stores this data for as long as we are in contact with you, or for up to 1 year after your last contact with us. You have the right to request all data related to your private communication with us be deleted at any time, and we will generally do so within 7 days.
+
 ### The Privacy Guides website stores local data
 
 Our website uses Local Storage in your browser to store your color scheme preference. This data is only used by client-side JavaScript to change the color scheme of this website according to your preference.
@@ -145,7 +155,9 @@ Privacy Guides does not respond to the (now deprecated) [Do Not Track HTTP heade
 
 ## Where does Privacy Guides store data about me?
 
-Most data is hosted by [Triplebit](https://www.triplebit.org/) web services in the United States. Some publicly accessible data may be hosted by Content Delivery Networks with servers in other jurisdictions. For example, your profile picture may be hosted on multiple servers around the world.
+Most data is hosted by [Triplebit](https://www.triplebit.org/) web services in the United States.
+
+Some publicly accessible data may be hosted by Content Delivery Networks with servers in other jurisdictions. For example, your profile picture may be stored on multiple servers around the world in order to improve the performance for visitors to our website.
 
 ## Does Privacy Guides comply with the EU General Data Protection Regulation?
 
@@ -249,7 +261,7 @@ For complaints under GDPR more generally, you always have the option to lodge co
 
 ## Where do I find out about changes?
 
-This version of Privacy Guides' privacy notice took effect on March 4, 2025.
+This version of Privacy Guides' privacy notice took effect on March 5, 2025.
 
 Privacy Guides will post the next version here: <https://www.privacyguides.org/en/about/privacy-policy/>.
 
