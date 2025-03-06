@@ -96,6 +96,20 @@ Contributors to Privacy Guides' website may be asked to provide identifying and 
 
 Privacy Guides uses this information to maintain the integrity of our website, software, and license agreements, both our own licenses and the license between Privacy Guides and our contributors. Privacy Guides stores this information for as long as your contributions are incorporated into our open source software, including this website.
 
+### Privacy Guides collects data when you donate to us
+
+When you donate to us on GitHub Sponsors, we collect your GitHub username and profile picture. Your payment information is also collected by our subprocessors GitHub and Stripe in order to facilitate the transaction.
+
+If you choose to make your donation public during or after the checkout process on GitHub, Privacy Guides will share your username and profile picture on our websites for the purposes of fulfilling your request. You may revoke this consent at any time, and we will no longer share your donation status publicly. It may take until the next website release for your data to be removed from public visibility.
+
+When you donate to us on [donate.magicgrants.org](https://donate.magicgrants.org/privacyguides), a [separate privacy policy](https://donate.magicgrants.org/privacy) applies as noted at the beginning of this document.
+
+However, if you optionally link your `donate.magicgrants.org` account to your Privacy Guides forum account, our forum collects some personal data which is covered by this notice: namely your forum username and whether you have an active membership.
+
+We process that information in order to grant you special perks on the forum. Additionally, if you choose to make this status public by setting a members-only title or flair, we will share the status of your active membership on our websites.
+
+This information is stored for as long as your membership is active, or until you unlink your forum and MAGIC Grants donation accounts in your profile settings. It may take until the next website release for your data to be fully removed from public visibility.
+
 ### Privacy Guides collects data when you contact us
 
 When you contact Privacy Guides via email, Signal, or any of our other contact methods, we collect the information you submit to us, and any identifying information associated with the account you use to contact us. For example, when you contact us via Signal we will collect your Signal profile information. When you contact us via email we will collect your email address, name, and mail server IP address.
@@ -176,6 +190,23 @@ The GDPR provides you with the following rights with respect to personal informa
 - the right to lodge a complaint with a supervisory authority
 
 Information about how to exercise these rights is provided throughout this notice and linked above. We try to make exercising all of these rights easy to do on your own through your account settings, but for more complicated inquiries the best option will be to [contact](#how-can-i-contact-privacy-guides-about-privacy) us.
+
+### What is the lawful basis of your data collection?
+
+| Activity | Data Collected | Lawful Basis | Explanation |
+| -------- | -------------- | ------------ | ----------- |
+| [Website visits](#privacy-guides-collects-information-about-visits-to-its-websites) | IP Address, User Agent, Pages Visited | **Legitimate Interest** | Defending our website from abuse and technical attacks, diagnosing and debugging technical errors, optimizing our websites, and compiling aggregated non-personal statistics for long-term analysis |
+| [Account data](#privacy-guides-collects-account-data) | Email Address, Username, Password | **Contract** | Required to make our services available to you according to our terms of service |
+| [Account data](#privacy-guides-collects-account-data) | Optional profile information (name, location, etc.) | **Consent** | Required to publish the information you provide to your public or internal profile, according to your preferences |
+| [Posts & activity](#privacy-guides-collects-data-about-posts-and-other-activity-on-our-forum) | Content of your posts, activity data like bookmarks, likes, and links you follow | **Contract** | Required to make our services available to you according to our terms of service |
+| [Posts & activity](#privacy-guides-collects-data-about-posts-and-other-activity-on-our-forum) | Content of your private messages | **Contract** | Required to make our services available to you according to our terms of service |
+| [Mailing lists](#privacy-guides-collects-data-you-give-to-sign-up-for-mailing-lists-and-announcements) | Email Address | **Consent** | Required for sending you messages you subscribe to |
+| [Open source contributions](#privacy-guides-collects-data-about-open-source-contributors) | Email address, name, GitHub profile information, other information provided via Git | **Legitimate interest** | We have a legitimate interest in tracking the provenance of contributions to its website to prevent abuse and ensure intellectual property rights are respected |
+| [Donations](#privacy-guides-collects-data-when-you-donate-to-us) | Payment information including billing address and email, GitHub profile information | **Legitimate interest** | We have a legitimate interest in processing this data to prevent payment abuse and fraud, and for facilitating your transaction |
+| [Donations](#privacy-guides-collects-data-when-you-donate-to-us) | GitHub profile information | **Consent** | We process this information to display your donation status publicly in accordance to your wishes |
+| [Donations](#privacy-guides-collects-data-when-you-donate-to-us) | Forum username and membership status | **Consent** | When you link your forum account to your MAGIC Grants donation account, you can optionally display your membership status to the public |
+| [Contacting us](#privacy-guides-collects-data-when-you-contact-us) | Email address, mail server IP, message content | **Legitimate interest** | We have a legitimate interest in processing incoming email information to prevent spam and network abuse |
+| [Contacting us](#privacy-guides-collects-data-when-you-contact-us) | Email address, message headers and content | **Consent** | We store your messages and process your data in order to communicate with you |
 
 ### Does Privacy Guides make international data transfers?
 
