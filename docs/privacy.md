@@ -195,7 +195,7 @@ The GDPR provides you with the following rights with respect to personal informa
 
 Information about how to exercise these rights is provided throughout this notice and linked above. We try to make exercising all of these rights easy to do on your own through your account settings, but for more complicated inquiries the best option will be to [contact](#how-can-i-contact-privacy-guides-about-privacy) us.
 
-### What is the lawful basis of your data collection?
+### What is the lawful basis for data collection and processing?
 
 Privacy Guides generally processes your data using 3 of the 6 lawful bases for processing set out in Article 6 of the GDPR:
 
@@ -313,7 +313,7 @@ For complaints under GDPR more generally, you always have the option to lodge co
 
 ## Where do I find out about changes?
 
-This version of Privacy Guides' privacy notice took effect on March 5, 2025.
+This version of Privacy Guides' privacy notice took effect on March 6, 2025.
 
 Privacy Guides will post the next version here: <https://www.privacyguides.org/en/about/privacy-policy/>.
 
