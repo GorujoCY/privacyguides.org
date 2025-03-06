@@ -151,6 +151,10 @@ Our forum is built on Discourse, which uses the following cookies:
 
 Your web browser can show you the cookies you have for any website and help you manage them.
 
+### Privacy Guides makes regular backups of all data
+
+Privacy Guides keeps automated backups of **all** data it collects. These backups are stored for up to 30 days. Any time you delete personal data from our websites, a copy may be retained in backup archives until those archives are pruned.
+
 ## Does Privacy Guides use personal information for marketing purposes?
 
 Privacy Guides may use personal data about our users in order to directly promote our own resources, such as for sharing new resources or when fundraising. We also use the information you give us when signing up for our mailing lists and announcements to send those messages.
@@ -217,6 +221,7 @@ The lawful basis for our processing determines what rights are available to you 
 | [Donations](#privacy-guides-collects-data-when-you-donate-to-us) | Forum username and membership status | **Consent** | When you link your forum account to your MAGIC Grants donation account, you can optionally display your membership status to the public |
 | [Contacting us](#privacy-guides-collects-data-when-you-contact-us) | Email address, mail server IP, message content | **Legitimate interest** | We have a legitimate interest in processing incoming email information to prevent spam and network abuse |
 | [Contacting us](#privacy-guides-collects-data-when-you-contact-us) | Email address, message headers and content | **Consent** | We store your messages and process your data in order to communicate with you |
+| [Backups](#privacy-guides-makes-regular-backups-of-all-data) | All personal information we collect | **Legitimate interest** | We store complete backups to ensure organizational continuity and security for up to 30 days |
 
 ### Does Privacy Guides make international data transfers?
 
@@ -293,6 +298,12 @@ Privacy Guides uses the following subprocessors, and may share personal data wit
 | [Triplebit](https://www.triplebit.org/) (USA) | Object Storage | For hosting static websites and static media content, and distributing static content | USA, Poland | [Privacy Notice](https://www.triplebit.org/privacy/) |
 | [Triplebit](https://www.triplebit.org/) (USA) | [Umami Statistics](https://stats.triplebit.net/share/S80jBc50hxr5TquS/www.privacyguides.org) | For compiling aggregated statistics of our website visitor data based on server-side visitor info submissions | USA | [Privacy Notice](https://www.triplebit.org/privacy/) |
 | [Triplebit](https://www.triplebit.org/) (USA) | Virtual Private Servers | For hosting our dynamic websites, storing and processing personal data. | USA | [Privacy Notice](https://www.triplebit.org/privacy/) |
+
+## Does Privacy Guides delete inactive accounts?
+
+Privacy Guides deletes accounts that have no public activity when they have gone unused for 3 years. If the account has public activity, we will not delete it regardless of inactivity because your profile data is required to continue to publish your activity per your original request.
+
+You can always request the deletion of your data at any time regardless of this policy.
 
 ## How can I contact Privacy Guides about privacy?
 
