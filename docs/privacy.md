@@ -203,7 +203,8 @@ The lawful basis for our processing determines what rights are available to you 
 
 | Activity | Data Collected | Lawful Basis | Explanation |
 | -------- | -------------- | ------------ | ----------- |
-| [Website visits](#privacy-guides-collects-information-about-visits-to-its-websites) | IP Address, User Agent, Pages Visited | **Legitimate Interest** | Defending our website from abuse and technical attacks, diagnosing and debugging technical errors, optimizing our websites, and compiling aggregated non-personal statistics for long-term analysis |
+| [Website visits](#privacy-guides-collects-information-about-visits-to-its-websites) | IP Address, User Agent, Pages Visited | **Legitimate interest** | Required for defending our website from abuse and technical attacks, diagnosing and debugging technical errors, optimizing our websites, and compiling aggregated non-personal statistics for long-term analysis |
+| [Account data](#privacy-guides-collects-account-data) | Email Address, IP Address | **Legitimate interest** | Required to defend our website against spam and abuse |
 | [Account data](#privacy-guides-collects-account-data) | Email Address, Username, Password | **Contract** | Required to make our services available to you according to our terms of service |
 | [Account data](#privacy-guides-collects-account-data) | Optional profile information (name, location, etc.) | **Consent** | Required to publish the information you provide to your public or internal profile, according to your preferences |
 | [Posts & activity](#privacy-guides-collects-data-about-posts-and-other-activity-on-our-forum) | Content of your posts, activity data like bookmarks, likes, and links you follow | **Contract** | Required to make our services available to you according to our terms of service |
