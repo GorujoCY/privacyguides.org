@@ -200,7 +200,7 @@ Information about how to exercise these rights is provided throughout this notic
 Privacy Guides generally processes your data using 3 of the 6 lawful bases for processing set out in Article 6 of the GDPR:
 
 - **Consent**: When you give us clear consent for us to process your personal data. This consent can be easily withdrawn at any time in your account settings, or you may always contact us for assistance with privacy-related matters.
-- **Contract**: When you give us your personal data in order to participate on services we operate according to our terms of service.
+- **Contract**: When you give us your personal data in order to participate on services we operate according to our terms of service, or when we require personal data in order to take steps prior to entering a contract or to fulfill a contract.
 - **Legitimate interest**: When we process your personal data for fraud prevention, network and information security, or other reasons where the processing is required for our own legitimate interests or for those of a third party we work with.
 
 The lawful basis for our processing determines what rights are available to you under the GDPR. This table may be used as a reference:
@@ -220,7 +220,7 @@ The lawful basis for our processing determines what rights are available to you 
 | [Donations](#privacy-guides-collects-data-when-you-donate-to-us) | GitHub profile information | **Consent** | We process this information to display your donation status publicly in accordance to your wishes |
 | [Donations](#privacy-guides-collects-data-when-you-donate-to-us) | Forum username and membership status | **Consent** | When you link your forum account to your MAGIC Grants donation account, you can optionally display your membership status to the public |
 | [Contacting us](#privacy-guides-collects-data-when-you-contact-us) | Email address, mail server IP, message content | **Legitimate interest** | We have a legitimate interest in processing incoming email information to prevent spam and network abuse |
-| [Contacting us](#privacy-guides-collects-data-when-you-contact-us) | Email address, message headers and content | **Consent** | We store your messages and process your data in order to communicate with you |
+| [Contacting us](#privacy-guides-collects-data-when-you-contact-us) | Email address, message headers and content | **Contract** | We store your messages and process your data in order to provide a response to your communication |
 | [Backups](#privacy-guides-makes-regular-backups-of-all-data) | All personal information we collect | **Legitimate interest** | We store complete backups to ensure organizational continuity and security for up to 30 days |
 
 ### Does Privacy Guides make international data transfers?
