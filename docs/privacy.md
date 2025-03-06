@@ -193,6 +193,14 @@ Information about how to exercise these rights is provided throughout this notic
 
 ### What is the lawful basis of your data collection?
 
+Privacy Guides generally processes your data using 3 of the 6 lawful bases for processing set out in Article 6 of the GDPR:
+
+- **Consent**: When you give us clear consent for us to process your personal data. This consent can be easily withdrawn at any time in your account settings, or you may always contact us for assistance with privacy-related matters.
+- **Contract**: When you give us your personal data in order to participate on services we operate according to our terms of service.
+- **Legitimate interest**: When we process your personal data for fraud prevention, network and information security, or other reasons where the processing is required for our own legitimate interests or for those of a third party we work with.
+
+The lawful basis for our processing determines what rights are available to you under the GDPR. This table may be used as a reference:
+
 | Activity | Data Collected | Lawful Basis | Explanation |
 | -------- | -------------- | ------------ | ----------- |
 | [Website visits](#privacy-guides-collects-information-about-visits-to-its-websites) | IP Address, User Agent, Pages Visited | **Legitimate Interest** | Defending our website from abuse and technical attacks, diagnosing and debugging technical errors, optimizing our websites, and compiling aggregated non-personal statistics for long-term analysis |
@@ -200,8 +208,9 @@ Information about how to exercise these rights is provided throughout this notic
 | [Account data](#privacy-guides-collects-account-data) | Optional profile information (name, location, etc.) | **Consent** | Required to publish the information you provide to your public or internal profile, according to your preferences |
 | [Posts & activity](#privacy-guides-collects-data-about-posts-and-other-activity-on-our-forum) | Content of your posts, activity data like bookmarks, likes, and links you follow | **Contract** | Required to make our services available to you according to our terms of service |
 | [Posts & activity](#privacy-guides-collects-data-about-posts-and-other-activity-on-our-forum) | Content of your private messages | **Contract** | Required to make our services available to you according to our terms of service |
+| [Posts & activity](#privacy-guides-collects-data-about-posts-and-other-activity-on-our-forum) | Email Address | **Contract** | Our forum is an email-based platform, and email notifications about forum activity are an integral component required to make our services available to you according to our terms of service |
 | [Mailing lists](#privacy-guides-collects-data-you-give-to-sign-up-for-mailing-lists-and-announcements) | Email Address | **Consent** | Required for sending you messages you subscribe to |
-| [Open source contributions](#privacy-guides-collects-data-about-open-source-contributors) | Email address, name, GitHub profile information, other information provided via Git | **Legitimate interest** | We have a legitimate interest in tracking the provenance of contributions to its website to prevent abuse and ensure intellectual property rights are respected |
+| [Open source contributions](#privacy-guides-collects-data-about-open-source-contributors) | Email address, name, GitHub profile information, other information provided via Git | **Legitimate interest** | We have a legitimate interest in tracking the provenance of contributions to our open source projects to prevent abuse and ensure intellectual property rights are respected |
 | [Donations](#privacy-guides-collects-data-when-you-donate-to-us) | Payment information including billing address and email, GitHub profile information | **Legitimate interest** | We have a legitimate interest in processing this data to prevent payment abuse and fraud, and for facilitating your transaction |
 | [Donations](#privacy-guides-collects-data-when-you-donate-to-us) | GitHub profile information | **Consent** | We process this information to display your donation status publicly in accordance to your wishes |
 | [Donations](#privacy-guides-collects-data-when-you-donate-to-us) | Forum username and membership status | **Consent** | When you link your forum account to your MAGIC Grants donation account, you can optionally display your membership status to the public |
