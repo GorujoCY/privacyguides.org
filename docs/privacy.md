@@ -315,10 +315,10 @@ For complaints under GDPR more generally, you always have the option to lodge co
 
 This version of Privacy Guides' privacy notice took effect on March 6, 2025.
 
-Privacy Guides will post the next version here: <https://www.privacyguides.org/en/about/privacy-policy/>.
+Privacy Guides will post the next version here: <https://www.privacyguides.org/en/privacy/>.
 
-In future versions, Privacy Guides may change how it announces changes. In the meantime, Privacy Guides may update its contact information without announcing a change. Please refer to <https://www.privacyguides.org/en/about/privacy-policy/> for the latest contact information at any time.
+In future versions, Privacy Guides may change how it announces changes. In the meantime, Privacy Guides may update its contact information without announcing a change. Please refer to <https://www.privacyguides.org/en/privacy/> for the latest contact information at any time.
 
-A full revision [history](https://github.com/privacyguides/privacyguides.org/commits/main/docs/about/privacy-policy.md) of this page can be found on GitHub.
+A full revision [history](https://github.com/privacyguides/privacyguides.org/commits/main/docs/privacy.md) of this page can be found on GitHub.
 
 In the event that a translated copy of this document conflicts with the English copy, the English copy of this document takes precedence.
